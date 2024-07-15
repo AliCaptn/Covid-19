@@ -11,7 +11,6 @@ This Report mainly focuses on CASES, DEATHS & VACCINATIONS and contains 2 pages 
 
 ❖ To check SQL queries, questions I asked and answered from this data and interact with the dashboard visit the website below :
 
-GitHub Repository: https://github.com/Sumir04/Covid-19-Analysis-using-SQL-and-Power-Bi
 novyPro (for interacting with the dashboard): [https://www.novypro.com/project/covid-19-analysis-report-using-sql-and-power-bi-power-bi](https://www.novypro.com/profile_projects/ali-raza-powerbideveloper)
 
 🔸 Tools I have used in this project - 
