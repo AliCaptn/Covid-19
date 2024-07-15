@@ -2,7 +2,6 @@ Hello #dataenthusiast today I am excited to share my new portfolio project on �
 It was a fantastic experience to work with such a huge amount of data in front of your face, Scrolling through the Excel sheet to visually get insights in a single glance and interact with the data is what drives me to push forward with this project.
 
  🚶‍♂️ Let me walk you through the Report - 
-You can find the raw dataset at: https://ourworldindata.org/covid-deaths
 This Report mainly focuses on CASES, DEATHS & VACCINATIONS and contains 2 pages i.e, Global Stats & India's Stats. 
 🔶  The first page (Global Stats) KPI shows the Total Cases, Deaths, and vaccinations done from 08-01-2020 to 21-08-2023 with over 330K+ rows of data. 
 ◈ Yearly, Quarterly & Monthly dynamic slicers are given to drill dig inside Line charts time of Total Cases, Deaths, and vaccinations done globally.
